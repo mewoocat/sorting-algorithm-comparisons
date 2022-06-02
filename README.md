@@ -1,7 +1,7 @@
 # sorting-algorithm-comparsions
 Compares the running time of various sorting algorithms on given hardware
 
-![Example Plot](plot.png)
+![Example Plot](plots.png)
 
 This program was written for an algorithms analysis course.
 
