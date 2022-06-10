@@ -1,6 +1,11 @@
 # sorting-algorithm-comparsions
 Compares the running time of various sorting algorithms on given hardware
 
+Sorting Algorithms Used:
+  - Quick Sort
+  - Selection Sort
+  - Insertion Sort
+
 Example Plot of the Output Data Ran on a i7-7500U @ 3.5GHz
 ![Example Plot](plots.png)
 
