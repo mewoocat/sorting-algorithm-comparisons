@@ -6,7 +6,7 @@ Sorting Algorithms Used:
   - Selection Sort
   - Insertion Sort
 
-Example Plot of the Output Data Ran on a i7-7500U @ 3.5GHz
+Example Plot of the Output Data Ran on an Intel i7-7500U @ 3.5GHz
 ![Example Plot](plots.png)
 
 This program was written for an algorithms analysis course.
